@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|bottom"
+    android:columnCount="3"
+    android:orientation="horizontal">
+
+
+
+
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="1"
+        android:id="@+id/button1"
+        android:textColor="#000000" />
+
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="2"
+        android:id="@+id/button2"
+        android:textColor="#000000" />
+
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="3"
+        android:id="@+id/button3"
+        android:textColor="#000000" />
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="4"
+        android:id="@+id/button4"
+        android:textColor="#000000" />
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="5"
+        android:id="@+id/button5"
+        android:textColor="#000000" />
+
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="6"
+        android:id="@+id/button6"
+        android:textColor="#000000" />
+
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="7"
+        android:id="@+id/button7"
+        android:textColor="#000000" />
+
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="8"
+        android:id="@+id/button8"
+        android:textColor="#000000" />
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="9"
+        android:id="@+id/button9"
+        android:textColor="#000000" />
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="("
+        android:textColor="#000000" />
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text="0"
+        android:id="@+id/button0"
+        android:textColor="#000000" />
+    <Button
+        android:layout_margin="0dp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="@color/accentColor"
+        android:text=")"
+        android:textColor="#000000" />
+
+
+
+</GridLayout>
+
+
